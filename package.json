@@ -15,7 +15,7 @@
     "cross-env": "^5.2.0",
     "fastify": "^1.13.3",
     "nuxt-buefy": "^0.3.2",
-    "nuxt": "^2.0.0"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.0.0-beta.27",
